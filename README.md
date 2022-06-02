@@ -13,3 +13,5 @@ it's a repository where I can keep track of my **observations** and _questions_ 
 [Express REST API](./Express_RESTApi/express.md)
 
 [Linked List](./linked-list//linkedList.md)
+
+[SQL vs NoSQL](./sequelize/sequelize.md)
