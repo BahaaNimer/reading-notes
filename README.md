@@ -15,3 +15,5 @@ it's a repository where I can keep track of my **observations** and _questions_ 
 [Linked List](./linked-list//linkedList.md)
 
 [SQL vs NoSQL](./sequelize/sequelize.md)
+
+[Sequelize Normalization](./sequelize-normalization/sequelize-normalization.md)
