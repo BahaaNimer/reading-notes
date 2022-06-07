@@ -17,3 +17,5 @@ it's a repository where I can keep track of my **observations** and _questions_ 
 [SQL vs NoSQL](./sequelize/sequelize.md)
 
 [Sequelize Normalization](./sequelize-normalization/sequelize-normalization.md)
+
+[Authentication](./Authentication/Authentication.md)
