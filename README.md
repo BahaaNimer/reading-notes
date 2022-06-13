@@ -19,3 +19,5 @@ it's a repository where I can keep track of my **observations** and _questions_ 
 [Sequelize Normalization](./sequelize-normalization/sequelize-normalization.md)
 
 [Authentication](./Authentication/Authentication.md)
+
+[Bearer Authorization](./Bearer-Authorization/Bearer-Authorization.md)
