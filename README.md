@@ -28,4 +28,6 @@ it's a repository where I can keep track of my **observations** and _questions_ 
 
 [Event Driven Progrmming](./Event-Driven-Programming-in-Node/Event-Driven-Programming.md)
 
-[Soket](./socket/socket.md)
+[Socket](./socket/socket.md)
+
+[Rooms And Namespaces - socket.io](./socket-namespaces/socket-namespaces.md)
