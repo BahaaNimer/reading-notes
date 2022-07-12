@@ -37,3 +37,5 @@ it's a repository where I can keep track of my **observations** and _questions_ 
 [AWS](./AWS/aws.md)
 
 [AWS S3](./AWS-s3/s3.md)
+
+[AWS EVENTS](./AWS-events/events.md)
