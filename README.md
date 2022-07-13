@@ -39,3 +39,5 @@ it's a repository where I can keep track of my **observations** and _questions_ 
 [AWS S3](./AWS-s3/s3.md)
 
 [AWS EVENTS](./AWS-events/events.md)
+
+[AWS DYNAMO](./AWS-Dynamo/dynamo.md)
