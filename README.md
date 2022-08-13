@@ -45,3 +45,5 @@ it's a repository where I can keep track of my **observations** and _questions_ 
 [Component Based UI](./ComponentBasedUI/Component_Based_UI.md)
 
 [useState Hook](./useStateHook/useState.md)
+
+[useEffect Hook](./useEffectHook/useEffect.md)
