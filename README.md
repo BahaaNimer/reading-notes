@@ -49,3 +49,5 @@ it's a repository where I can keep track of my **observations** and _questions_ 
 [useEffect Hook](./useEffectHook/useEffect.md)
 
 [useReducer Hook](./useReducer/useReducer.md)
+
+[Hash Table](./HashTable/hashTable.md)
