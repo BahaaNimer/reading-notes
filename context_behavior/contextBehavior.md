@@ -110,7 +110,7 @@ return <h1>{username}</h1>
 
 Finally, `Profile` uses the `username` props. Passing props down in this manner, `known as prop drilling`, is the default method. To better illustrate the component hierarchy, view the diagram below:
 
-[diagram](./assets/React-Context-API-A-deep-dive-with-examples-LogRocket-Blog.png)
+![diagram](./assets/React-Context-API-A-deep-dive-with-examples-LogRocket-Blog.png)
 
 `App` is the initiating prop-passing component. While `App`‘s states `title`, `username`, and `activeProfileId` were passed down as `props`, the components that needed those `props` were `SideNav`, `TopNav`, and `Profile`. However, we had to go through intermediary components `Dashboard`, `Main`, and `Page`, which merely relayed the `props`.
 
