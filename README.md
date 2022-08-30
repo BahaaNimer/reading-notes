@@ -59,3 +59,5 @@ it's a repository where I can keep track of my **observations** and _questions_ 
 [Login-AUTH](./Login-Auth/loginAuth.md)
 
 [Api-Auth-Server](./Api-Auth-Server/apiAuthServer.md)
+
+[Redux](./Redux/redux.md)
