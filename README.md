@@ -65,3 +65,5 @@ it's a repository where I can keep track of my **observations** and _questions_ 
 [Graphs](./Graphs/graphs.md)
 
 [Combine Reducers](./combineReducers/combineReducers.md)
+
+[Redux Thunk](./reduxThunk/reduxThunk.md)
